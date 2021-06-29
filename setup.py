@@ -23,5 +23,7 @@ setuptools.setup(
     install_requires=[
         'bleak',
         'pygatt',
+        'pexpect',
+        'bluepy',
     ],
 )
